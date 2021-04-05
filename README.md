@@ -5,7 +5,7 @@ I used this simple terraform module to create my own static website borsoft.ch
 
 Nothing Special but useful.
 
-How to use it:
+## How to use it:
 
 * register your public dns in AWS (this automaticlly create the Route53 Zone)
 * wait 1/2 hours
