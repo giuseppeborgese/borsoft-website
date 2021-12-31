@@ -54,6 +54,7 @@ variable "mime_types" {
     png   = "image/png"
     gif   = "image/gif"
     txt   = "text/plain"
+    pdf   = "application/pdf"
   }
 }
 
